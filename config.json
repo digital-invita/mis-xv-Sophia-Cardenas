@@ -1,0 +1,364 @@
+{
+  "meta": {
+    "pageTitle": "Mis XV | Sophia Cardenas",
+    "ogTitle": "",
+    "ogDescription": "Acompáñanos a celebrar este día tan especial.",
+    "publicUrl": ""
+  },
+  "event": {
+    "template": "xv",
+    "label": "Mis XV",
+    "age": "",
+    "celebrantName": "Sophia Cardenas",
+    "person1Name": "",
+    "person2Name": "",
+    "eventDate": "2026-09-12T23:59",
+    "eventEnd": "2026-09-13T02:00",
+    "calendarTitle": "Xv de Sophia",
+    "timeZone": "America/Mexico_City",
+    "eventLocation": "Salón de Recepciones Amitie",
+    "rsvpCountryCode": "52",
+    "rsvpPhone": "6562845876"
+  },
+  "theme": {
+    "bgTop": "#f8e7d0",
+    "bgMid": "#dfbd95",
+    "bgBottom": "#f8e7d0",
+    "gold500": "#f2c06f",
+    "sectionTitle": "#7a4f22",
+    "scriptColor": "#8f6538",
+    "timelineColor": "#a7773e",
+    "timelineTimeColor": "#000000",
+    "timelineTitleColor": "#7a4f23",
+    "timelineDescColor": "#000000",
+    "timelineFont": "Cormorant Garamond",
+    "locationTitleColor": "#fff4cf",
+    "locationTimeColor": "#fff4cf",
+    "locationPlaceColor": "#ffffff",
+    "particleColor": "#ffffff",
+    "buttonBg": "#7a4f22",
+    "buttonText": "#ffffff",
+    "fieldLabel": "#69471f",
+    "fieldText": "#3b2a18",
+    "closingColor": "#7a4f22",
+    "openingKicker": "#ffffff",
+    "openingTitle": "#ffffff",
+    "openingAccent": "#ffffff",
+    "text": "#382536",
+    "muted": "#6e5264",
+    "sectionOpacity": 13,
+    "openingOpacity": 50,
+    "openingEffectEnabled": false,
+    "particlesEnabled": true,
+    "particleDensity": 100,
+    "particleSize": 180,
+    "particleBrightness": 120,
+    "backgroundImage": "media/fdmm.png",
+    "backgroundImageOpacity": 55,
+    "backgroundImagePositionX": 50,
+    "sectionBackgroundEnabled": false,
+    "sectionBackgroundConfigured": true,
+    "sectionBackgroundVersion": 1,
+    "sectionBackgroundImage": "",
+    "sectionBackgroundOpacity": 70,
+    "sectionBackgroundPositionX": 50,
+    "sectionBackgroundFit": "cover",
+    "styleMode": "classic",
+    "bodyFont": "Cormorant Garamond",
+    "scriptFont": "Tangerine",
+    "displayFont": "Great Vibes"
+  },
+  "sectionStyles": {
+    "story": {
+      "inheritTheme": true,
+      "titleColor": "#7a4f22",
+      "textColor": "#382536",
+      "buttonBg": "#7a4f22",
+      "buttonText": "#ffffff"
+    },
+    "parents": {
+      "inheritTheme": true,
+      "titleColor": "#7a4f22",
+      "textColor": "#382536",
+      "buttonBg": "#7a4f22",
+      "buttonText": "#ffffff"
+    },
+    "godparents": {
+      "inheritTheme": true,
+      "titleColor": "#7a4f22",
+      "textColor": "#382536",
+      "buttonBg": "#7a4f22",
+      "buttonText": "#ffffff"
+    },
+    "ceremony": {
+      "inheritTheme": false,
+      "titleColor": "#7a4f22",
+      "textColor": "#8f6537",
+      "buttonBg": "#7a4f22",
+      "buttonText": "#ffffff"
+    },
+    "reception": {
+      "inheritTheme": false,
+      "titleColor": "#7a4f22",
+      "textColor": "#8f6537",
+      "buttonBg": "#7a4f22",
+      "buttonText": "#ffffff"
+    },
+    "countdown": {
+      "inheritTheme": true,
+      "titleColor": "#7a4f22",
+      "textColor": "#382536",
+      "buttonBg": "#7a4f22",
+      "buttonText": "#ffffff"
+    },
+    "timeline": {
+      "inheritTheme": false,
+      "titleColor": "#7a4f22",
+      "textColor": "#ffffff",
+      "buttonBg": "#7a4f22",
+      "buttonText": "#ffffff"
+    },
+    "dress": {
+      "inheritTheme": true,
+      "titleColor": "#7a4f22",
+      "textColor": "#382536",
+      "buttonBg": "#7a4f22",
+      "buttonText": "#ffffff"
+    },
+    "adultNotice": {
+      "inheritTheme": true,
+      "titleColor": "#7a4f22",
+      "textColor": "#382536",
+      "buttonBg": "#7a4f22",
+      "buttonText": "#ffffff"
+    },
+    "rsvp": {
+      "inheritTheme": true,
+      "titleColor": "#7a4f22",
+      "textColor": "#382536",
+      "buttonBg": "#7a4f22",
+      "buttonText": "#ffffff"
+    },
+    "gallery": {
+      "inheritTheme": true,
+      "titleColor": "#7a4f22",
+      "textColor": "#382536",
+      "buttonBg": "#7a4f22",
+      "buttonText": "#ffffff"
+    },
+    "gifts": {
+      "inheritTheme": true,
+      "titleColor": "#7a4f22",
+      "textColor": "#382536",
+      "buttonBg": "#7a4f22",
+      "buttonText": "#ffffff"
+    },
+    "album": {
+      "inheritTheme": true,
+      "titleColor": "#7a4f22",
+      "textColor": "#382536",
+      "buttonBg": "#7a4f22",
+      "buttonText": "#ffffff"
+    },
+    "agenda": {
+      "inheritTheme": true,
+      "titleColor": "#7a4f22",
+      "textColor": "#382536",
+      "buttonBg": "#7a4f22",
+      "buttonText": "#ffffff"
+    },
+    "closing": {
+      "inheritTheme": true,
+      "titleColor": "#7a4f22",
+      "textColor": "#382536",
+      "buttonBg": "#7a4f22",
+      "buttonText": "#ffffff"
+    }
+  },
+  "images": {
+    "hero": "media/fprincipalv3.jpg",
+    "heroType": "image",
+    "og": "media/portada-og.jpg",
+    "story": "media/fhistoria.jpg",
+    "seal": "media/sello_cera.png",
+    "dress": "media/vestimenta.png",
+    "envelope": "media/1-1-1-sobre.png",
+    "surprise": "media/aass.png",
+    "gallery": [
+      "media/g1.jpg",
+      "media/g2.jpg",
+      "media/g3.jpg",
+      "media/g4.jpg",
+      "media/g5.jpg",
+      "media/g6.jpg",
+      "media/g7.jpg",
+      "media/g8.jpg"
+    ],
+    "galleryMediaTypes": [
+      "image",
+      "image",
+      "image",
+      "image",
+      "image",
+      "image",
+      "image",
+      "image"
+    ]
+  },
+  "audio": {
+    "src": "media/coldplay---a-sky-full-of-stars-lyrics.mp3",
+    "showControl": true
+  },
+  "story": {
+    "title": "Mi historia",
+    "paragraph1": "Hoy celebro no solo mis 15 años, sino cada sonrisa que iluminó mi camino y cada sueño que me ha traído hasta este momento tan especial.",
+    "paragraph2": "Aquí termina un capítulo lleno de recuerdos y comienza uno nuevo, donde la ilusión marca el inicio de todo lo que está por venir.",
+    "showImage": true
+  },
+  "family": {
+    "parentsEyebrow": "En compañía de mis padres",
+    "parentsNamesHtml": "América Herrera <br>&amp;<br>Ricardo Cardenas",
+    "parentsGroups": [],
+    "parentsInviteText": "Tenemos el honor de invitarles a celebrar mis XV años.",
+    "godparentsEyebrow": "Acompañante de Honor",
+    "godparentsNamesHtml": "José Manuel Irigoyen",
+    "godparentsItems": []
+  },
+  "ceremony": {
+    "title": "Ceremonia",
+    "time": "19:00 hrs",
+    "place": "Templo San Juan XXIII",
+    "showPlaceDetail": false,
+    "placeDetail": "",
+    "mediaMode": "preview",
+    "iconSrc": "media/cereminia.png",
+    "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d769.7332313055975!2d-106.39080839694005!3d31.715002463854173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86e75d0074757609%3A0x6ffef5edeaa1bbaa!2sTemplo%20San%20Juan%20XXIII!5e0!3m2!1ses-419!2smx!4v1786546579055!5m2!1ses-419!2smx\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\"></iframe>",
+    "photoSrc": "",
+    "mapLink": "https://maps.app.goo.gl/vsebyJvQkm2LCN416"
+  },
+  "reception": {
+    "title": "Recepción",
+    "time": "20:30",
+    "place": "Salón de Recepciones Amitie",
+    "showPlaceDetail": false,
+    "placeDetail": "",
+    "mediaMode": "preview",
+    "iconSrc": "media/recepcion.png",
+    "mapLink": "https://maps.app.goo.gl/Vhcj75srKCJ4JR1B9",
+    "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1786546791358!5m2!1ses-419!2smx!6m8!1m7!1sNYOb-6pfmFm6j9TM6-iHRw!2m2!1d31.71860767861383!2d-106.4441140608315!3f64.75948522615556!4f11.561429141392054!5f1.5366184664772655\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\"></iframe>",
+    "photoSrc": ""
+  },
+  "timeline": {
+    "items": [
+      {
+        "time": "19:00 hrs",
+        "title": "Ceremonia",
+        "desc": "Templo San Juan XXIII"
+      },
+      {
+        "time": "20:30",
+        "title": "Recepción",
+        "desc": "Salón de Recepciones Amitie"
+      },
+      {
+        "time": "21:30 hrs",
+        "title": "Presentación",
+        "desc": "Un momento especial para dar inicio a la celebración."
+      },
+      {
+        "time": "00:00 hrs",
+        "title": "Brindis",
+        "desc": "Levantemos nuestras copas para celebrar juntos."
+      }
+    ]
+  },
+  "countdown": {
+    "title": "Faltan pocos días",
+    "intro": "La cuenta regresiva ha comenzado para vivir un momento inolvidable.",
+    "style": "classic"
+  },
+  "dressCode": {
+    "title": "Dress Code",
+    "value": "Formal",
+    "note": "Dorado, café, y rojo  reservado para la quinceañera."
+  },
+  "adultNotice": {
+    "title": "Una celebración para adultos",
+    "text": "Con mucho cariño, hemos preparado esta celebración exclusivamente para adultos.\nAgradecemos mucho su comprensión."
+  },
+  "gifts": {
+    "title": "Opciones de regalo",
+    "intro": "Tu presencia es el regalo más valioso, pero si deseas tener un detalle será recibido con mucho cariño.",
+    "option1Title": "Lluvia de sobres",
+    "option1Copy": "Podrás acompañarme con un sobre el día del evento.",
+    "showOption1": true,
+    "option2Title": "Regalo sorpresa",
+    "option2Copy": "También puedes sorprenderme con un detalle elegido por ti.",
+    "showOption2": true,
+    "linksIntro": "Si prefieres elegir un detalle en línea, también puedes apoyarte en estas opciones de mesa de regalos:",
+    "showLinks": false,
+    "links": []
+  },
+  "album": {
+    "title": "Álbum digital",
+    "copy": "Comparte las mejores fotos de este gran día.",
+    "buttonLabel": "Ver álbum digital",
+    "buttonHref": "#",
+    "showQr": true,
+    "qrBackgroundOpacity": 100
+  },
+  "rsvp": {
+    "familyMode": true,
+    "showGuestCount": true,
+    "maxGuests": 6,
+    "confirmMessage": " Confirmación de asistencia \n\nCon mucha alegría confirmo mi presencia para celebrar {celebracion}.\n\nNombre: {nombre}\n{pases}\n\nSerá un honor acompañarte en este día tan especial.",
+    "declineMessage": " {evento} \n\nHola, mi nombre es {nombre}.\n\nCon mucho cariño quiero decir que en esta ocasión no podré acompañarte,\npero te deseo un día maravilloso y lleno de felicidad.",
+    "familyConfirmMessage": " Confirmación de asistencia familiar \n\nHola, somos la familia {familia}.\nCon mucha alegría confirmamos nuestra asistencia para celebrar {celebracion}.\n\nAsistiremos {cantidad}:\n{integrantes}\n\nSerá un gusto acompañarles en este día tan especial.",
+    "familyDeclineMessage": " {evento} \n\nHola, somos la familia {familia}.\nCon mucho cariño queremos avisar que en esta ocasión no podremos acompañarles.\n\nLes deseamos una celebración maravillosa y llena de momentos inolvidables."
+  },
+  "sections": {
+    "story": true,
+    "parents": true,
+    "godparents": true,
+    "ceremony": true,
+    "reception": true,
+    "timeline": true,
+    "countdown": true,
+    "gallery": true,
+    "dress": true,
+    "adultNotice": false,
+    "rsvp": true,
+    "gifts": true,
+    "agenda": true,
+    "album": false,
+    "closing": true
+  },
+  "layout": {
+    "sectionOrder": [
+      "story",
+      "parents",
+      "godparents",
+      "ceremony",
+      "reception",
+      "timeline",
+      "countdown",
+      "gallery",
+      "dress",
+      "adultNotice",
+      "rsvp",
+      "gifts",
+      "agenda",
+      "album",
+      "closing"
+    ]
+  },
+  "closing": {
+    "note": "Gracias por ser parte de este momento inolvidable"
+  },
+  "brand": {
+    "creditText": "Creado por Digital Invita",
+    "creditHref": "https://www.facebook.com/profile.php?id=61587804296779&locale=es_LA",
+    "ctaLabel": "Contáctanos",
+    "ctaHref": "https://wa.me/525550591264"
+  }
+}
